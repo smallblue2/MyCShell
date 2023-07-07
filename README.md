@@ -10,7 +10,7 @@ https://github.com/smallblue2/MyShell
 * The foundations for this shell and all exploratory work was done inside that repository.
 * This is a clean repository purely for the development of the final product of `myshell`.
 
-## MyShell
+## MyCShell
 A bare-bones, clean POSIX compliant shell for ANSI terminals written in C!
 
 ## Compile
@@ -25,4 +25,4 @@ This is so your manual and shell environment paths are correct.
 
 `cd bin`
 
-`./myshell`
+`./mycshell`
