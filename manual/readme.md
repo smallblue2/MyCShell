@@ -177,17 +177,6 @@ BACKGROUND EXECUTION
     Users can monitor, manage, and control background processes using external 
     commands like 'jobs', 'bg', and 'fg'.
 
-
-ACKNOWLEDGEMENT TO DCU PLAGIARISM INTEGRITY POLICY
-    I, Niall Ryan, have adhered to and acknowledge Dublin City
-    University's Academic Integrity Policy. All code written below
-    is my own, unless otherwise stated and acknowledged.
-
-    Author: Niall Ryan
-    Student Number: 21454746
-    Date: 15-3-23
-
-
 SOURCES:
     ENVIRONMENT CONCEPTS
         Environment Variables: Linux Documentation Project. (n.d.). Chapter 9.1 
